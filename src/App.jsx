@@ -10,7 +10,7 @@ import HomePage from "./pages/HomePage"
 import ServicesPage from "./pages/ServicesPage"
 import ContactPage from "./pages/ContactPage"
 import AboutPage from "./pages/AboutPage"
-import NavBar from "./Components/Navbar"
+import NavBar from "./components/NavBar"
 
 function App() {
 
